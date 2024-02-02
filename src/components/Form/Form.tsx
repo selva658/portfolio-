@@ -18,18 +18,6 @@ export function Form() {
     }
   }
 
-  useEffect(() => {
-    setMessage('')
-    if (!state.succeeded) {
-      toast.success('Email successfully sent!', {
-        position: toast.POSITION.BOTTOM_LEFT,
-        pauseOnFocusLoss: false,
-        closeOnClick: true,
-        hideProgressBar: false,
-        toastId: 'succeeded',
-      })
-    }
-  },[message])
   if (!state.succeeded) {
     return (
       <ContainerSucces>
