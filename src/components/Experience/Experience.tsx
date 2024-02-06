@@ -20,9 +20,7 @@ export function Experience() {
           <p>Started on : April 2022 - Feb 2024</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
-          <p>As a Full Stack Developer, I have played a key role in developing
-and maintaining web applications using Vue.js on the Front-end
-and Python Flask on the Back-end.</p>
+          <p>As a Full Stack Developer, significant contributions have beenmade to the development and upkeep of web applicationsemploying Vue.js for the Front-end and Python Flask for theBack-end.</p>
         </ScrollAnimation>
        
       </div>
