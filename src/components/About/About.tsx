@@ -24,7 +24,7 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-          My name's Selva. I'm a Full Stack Web Developer based in chennai, India</p>
+          I am Selva, a Full Stack Web Developer based out of Chennai, India.</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
           <p>

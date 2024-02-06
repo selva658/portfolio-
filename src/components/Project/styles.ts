@@ -30,6 +30,10 @@ export const Container = styled.section`
         transform: translateY(-5px);
         background-color: var(--pink);
       }
+      .Myproject{
+        width:60%;
+        height:40%;
+      }
 
       header{
         display: flex;
@@ -81,12 +85,20 @@ export const Container = styled.section`
   @media (max-width: 960px){
     .projects{
       grid-template-columns: 1fr 1fr;
+      .Myproject{
+        display:none
+       }
     }
+   
   }
 
   @media (max-width: 740px){
     .projects{
       grid-template-columns: 1fr;
+      .Myproject{
+       display:none
+      }
     }
+  
   }
 `

@@ -14,10 +14,10 @@ export function Experience() {
           <p>Company : Critical Mention an Onclusive Company</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
-          <p>De signation : Full Stack Web Developer</p>
+          <p>Designation : Full Stack Web Developer</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
-          <p>Started on : April 2022 - Present</p>
+          <p>Started on : April 2022 - Feb 2024</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
           <p>As a Full Stack Developer, I have played a key role in developing

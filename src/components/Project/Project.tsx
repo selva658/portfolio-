@@ -3,7 +3,13 @@ import { Container } from "./styles";
 // import DownloadApp from '../../assets/download.png'
 import externalLink from "../../assets/external-link.svg"
 import ScrollAnimation from "react-animate-on-scroll";
-
+import lybrate from "../../assets/lybrate.jpeg"
+import youtube from "../../assets/youtube.jpeg"
+import weather from "../../assets/weather.jpeg"
+import calculator from "../../assets/calculator.jpeg"
+import imgur from "../../assets/imgur.jpeg"
+import news from "../../assets/newsapp.jpeg"
+import bookmyshow from "../../assets/bookmyshow.jpeg"
 
 export function Project() {
   return (
@@ -29,6 +35,9 @@ export function Project() {
               <h3>Lybrate Lite</h3>
               <p>
               Lybrate is a mobile healthcare technology company that developed an online platform to connect doctors and patients.
+              </p>
+              <p className="container">
+              <img className="Myproject" src={lybrate} alt="Selvakumar" />
               </p>
             </div>
             <footer>
@@ -58,6 +67,7 @@ export function Project() {
               <p>
               Experience the essence of YouTube in this meticulously crafted clone, offering seamless video sharing, user-friendly interfaces, and immersive content discovery.
               </p>
+              <img className="Myproject" src={youtube} alt="Selvakumar" />
             </div>
             <footer>
               <ul className="tech-list">
@@ -86,6 +96,7 @@ export function Project() {
               <p>
               Weather forecast systems and applications predict weather conditions based on multiple parameters.
               </p>
+              <img className="Myproject" src={weather} alt="Selvakumar" />
             </div>
             <footer>
               <ul className="tech-list">
@@ -113,6 +124,8 @@ export function Project() {
               <p>
               Developed a user-friendly calculator application that simplifies mathematical operations with an intuitive interface and robust functionality.
               </p>
+              <img className="Myproject" src={calculator} alt="Selvakumar" />
+
             </div>
             <footer>
               <ul className="tech-list">
@@ -140,6 +153,8 @@ export function Project() {
               <p>
               Imgur is an online image sharing and image hosting service with a focus on social gossip.
               </p>
+              <img className="Myproject" src={imgur} alt="Selvakumar" />
+
             </div>
             <footer>
               <ul className="tech-list">
@@ -168,10 +183,12 @@ export function Project() {
               <p>
               A Simple News App.
               </p>
+              <img className="Myproject" src={news} alt="Selvakumar" />
+
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Vuw Js</li>
+                <li>Vue Js</li>
                 <li>CSS</li>
                 <li>Bootstrap</li>
               </ul>
@@ -196,6 +213,8 @@ export function Project() {
               <p>
               A Simple Movie show booking app.
               </p>
+              <img className="Myproject" src={bookmyshow} alt="Selvakumar" />
+
             </div>
             <footer>
               <ul className="tech-list">
@@ -224,6 +243,8 @@ export function Project() {
               <p>
               Lybrate is a mobile healthcare technology company that developed an online platform to connect doctors and patients.
               </p>
+              <img className="Myproject" src={lybrate} alt="Selvakumar" />
+
             </div>
             <footer>
               <ul className="tech-list">
