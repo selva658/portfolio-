@@ -31,8 +31,8 @@ export const Container = styled.section`
         background-color: var(--pink);
       }
       .Myproject{
-        width:60%;
-        height:40%;
+        width:100%;
+        height:55%;
       }
 
       header{

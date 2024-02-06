@@ -5,6 +5,7 @@ import { About } from "../About/About";
 import {Experience} from "../Experience/Experience";
 import { Contact } from "../Contact/Contact";
 import { Project } from "../Project/Project";
+import {Skills} from "../Skills/Skills"
 
 
 
@@ -263,6 +264,7 @@ export function Main() {
       <Hero></Hero>
       <About></About>
       <Experience></Experience>
+      <Skills></Skills>
       <Project></Project>
       <Contact></Contact>
     </Container>

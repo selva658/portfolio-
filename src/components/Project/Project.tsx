@@ -33,11 +33,11 @@ export function Project() {
             </header>
             <div className="body">
               <h3>Lybrate Lite</h3>
-              <p>
-              Lybrate is a mobile healthcare technology company that developed an online platform to connect doctors and patients.
-              </p>
-              <p className="container">
               <img className="Myproject" src={lybrate} alt="Selvakumar" />
+              <div>
+              Lybrate is a mobile healthcare technology company that developed an online platform to connect doctors and patients.
+              </div>
+              <p className="container">
               </p>
             </div>
             <footer>
@@ -64,10 +64,10 @@ export function Project() {
             </header>
             <div className="body">
               <h3>You Tube Lite</h3>
-              <p>
-              Experience the essence of YouTube in this meticulously crafted clone, offering seamless video sharing, user-friendly interfaces, and immersive content discovery.
-              </p>
               <img className="Myproject" src={youtube} alt="Selvakumar" />
+              <div>
+              Experience the essence of YouTube in this meticulously crafted clone, offering seamless video sharing, user-friendly interfaces, and immersive content discovery.
+              </div>
             </div>
             <footer>
               <ul className="tech-list">
@@ -93,10 +93,10 @@ export function Project() {
             </header>
             <div className="body">
               <h3>Weather App</h3>
-              <p>
-              Weather forecast systems and applications predict weather conditions based on multiple parameters.
-              </p>
               <img className="Myproject" src={weather} alt="Selvakumar" />
+              <div>
+              Weather forecast systems and applications predict weather conditions based on multiple parameters.
+              </div>
             </div>
             <footer>
               <ul className="tech-list">
@@ -121,10 +121,10 @@ export function Project() {
             </header>
             <div className="body">
               <h3>Calculator App</h3>
-              <p>
-              Developed a user-friendly calculator application that simplifies mathematical operations with an intuitive interface and robust functionality.
-              </p>
               <img className="Myproject" src={calculator} alt="Selvakumar" />
+              <div>
+              Developed a user-friendly calculator application that simplifies mathematical operations with an intuitive interface and robust functionality.
+              </div>
 
             </div>
             <footer>
@@ -150,11 +150,10 @@ export function Project() {
             </header>
             <div className="body">
               <h3>Imgur Lite</h3>
-              <p>
-              Imgur is an online image sharing and image hosting service with a focus on social gossip.
-              </p>
               <img className="Myproject" src={imgur} alt="Selvakumar" />
-
+              <div>
+              Imgur is an online image sharing and image hosting service with a focus on social gossip.
+              </div>
             </div>
             <footer>
               <ul className="tech-list">
@@ -180,11 +179,10 @@ export function Project() {
             </header>
             <div className="body">
               <h3>News App</h3>
-              <p>
-              A Simple News App.
-              </p>
               <img className="Myproject" src={news} alt="Selvakumar" />
-
+              <div>  
+             A news app designed to deliver curated, real-time updates on global events, offering users personalized content recommendations and intuitive navigation for seamless browsing.
+              </div>
             </div>
             <footer>
               <ul className="tech-list">
@@ -210,11 +208,10 @@ export function Project() {
             </header>
             <div className="body">
               <h3>Book My Show Lite</h3>
-              <p>
-              A Simple Movie show booking app.
-              </p>
               <img className="Myproject" src={bookmyshow} alt="Selvakumar" />
-
+              <div>
+              A movie show app designed to streamline the process of discovering and booking movie tickets, offering users a seamless experience to browse showtimes and theater locations.
+              </div>
             </div>
             <footer>
               <ul className="tech-list">
@@ -240,11 +237,10 @@ export function Project() {
             </header>
             <div className="body">
               <h3>Lybrate Lite using Node Js</h3>
-              <p>
-              Lybrate is a mobile healthcare technology company that developed an online platform to connect doctors and patients.
-              </p>
               <img className="Myproject" src={lybrate} alt="Selvakumar" />
-
+              <div>
+              Lybrate is a mobile healthcare technology company that developed an online platform to connect doctors and patients.
+              </div>
             </div>
             <footer>
               <ul className="tech-list">
